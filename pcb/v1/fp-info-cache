@@ -1,4 +1,4 @@
-19096082009887870
+19217032854531486
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -48768,6 +48768,34 @@ THT ceramic resonator filter DSS6
 0
 3
 3
+DashDash
+7Seg 0.36
+
+
+0
+10
+10
+DashDash
+SA15-11xxx
+http://www.kingbrightusa.com/images/catalog/SPEC/SA15-11SRWA.pdf
+SA15-11xxx single digit 7 segment display 38.1mm 1.5inch
+0
+10
+10
+DashDash
+rpm_0v1
+
+
+0
+0
+0
+DashDash
+testrpm
+
+
+0
+0
+0
 Diode_SMD
 D_0201_0603Metric
 Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator

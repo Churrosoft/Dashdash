@@ -297,6 +297,7 @@
     ],
     "rule_severities": {
       "bus_definition_conflict": "error",
+      "bus_entry_needed": "error",
       "bus_label_syntax": "error",
       "bus_to_bus_conflict": "error",
       "bus_to_net_conflict": "error",
@@ -353,7 +354,7 @@
       }
     ],
     "meta": {
-      "version": 0
+      "version": 1
     },
     "net_colors": null
   },
@@ -369,6 +370,7 @@
     "page_layout_descr_file": ""
   },
   "schematic": {
+    "annotate_start_num": 0,
     "drawing": {
       "default_bus_thickness": 12.0,
       "default_junction_size": 36.0,
@@ -392,10 +394,13 @@
     },
     "net_format_name": "",
     "ngspice": {
+      "fix_include_paths": true,
+      "fix_passive_vals": false,
       "meta": {
         "version": 0
       },
-      "model_mode": 0
+      "model_mode": 0,
+      "workbook_filename": ""
     },
     "page_layout_descr_file": "",
     "plot_directory": "",
@@ -406,16 +411,20 @@
   },
   "sheets": [
     [
-      "28c0bd3f-a147-4ce1-98ec-92cd866a7204",
+      "29f5f941-e8e4-46f3-bc26-342cffab5658",
       ""
-    ],
-    [
-      "28c0bd3f-a147-4ce1-98ec-92cd866a7204",
-      "Tachometer"
     ],
     [
       "0b123ccf-4508-4fc4-8cc6-5a7ce3f61b6f",
       "Speedometer"
+    ],
+    [
+      "cdb25c8c-7112-4b95-a237-07f20a67e668",
+      "Battery/Fuel/Temperature indicators"
+    ],
+    [
+      "0d0278d0-7b1a-43e0-b946-5237bd1427ae",
+      "TachometerV2"
     ]
   ],
   "text_variables": {}

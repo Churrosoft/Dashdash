@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name "DashDashv1")(type "KiCad")(uri "/home/fdsoftware/repos/churrosoft/openefi/Dashdash/pcb/library/DashDash/DashDashv1.kicad_sym")(options "")(descr ""))
+  (lib (name "OpenEFI-STM32-rev3")(type "KiCad")(uri "/home/fdsoftware/repos/churrosoft/openefi/Dashdash/pcb/library/OpenEFI-STM32-rev3.kicad_sym")(options "")(descr ""))
 )
