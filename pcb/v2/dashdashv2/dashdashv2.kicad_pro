@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.0,
-          "height": 0.4,
-          "width": 1.475
+          "drill": 0.762,
+          "height": 1.524,
+          "width": 1.524
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -78,8 +78,8 @@
         "padstack": "error",
         "pth_inside_courtyard": "ignore",
         "shorting_items": "error",
-        "silk_over_copper": "error",
-        "silk_overlap": "error",
+        "silk_over_copper": "warning",
+        "silk_overlap": "warning",
         "skew_out_of_range": "error",
         "too_many_vias": "error",
         "track_dangling": "warning",
@@ -331,13 +331,13 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "v1.kicad_pro",
+    "filename": "dashdashv2.kicad_pro",
     "version": 1
   },
   "net_settings": {
     "classes": [
       {
-        "bus_width": 6.0,
+        "bus_width": 12.0,
         "clearance": 0.2,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
@@ -374,7 +374,6 @@
     "annotate_start_num": 0,
     "drawing": {
       "default_bus_thickness": 12.0,
-      "default_junction_size": 36.0,
       "default_line_thickness": 6.0,
       "default_text_size": 50.0,
       "default_wire_thickness": 6.0,
@@ -385,9 +384,9 @@
       "intersheets_ref_show": false,
       "intersheets_ref_suffix": "",
       "junction_size_choice": 3,
-      "label_size_ratio": 0.3,
+      "label_size_ratio": 0.375,
       "pin_symbol_size": 25.0,
-      "text_offset_ratio": 0.3
+      "text_offset_ratio": 0.15
     },
     "legacy_lib_dir": "",
     "legacy_lib_list": [],
@@ -413,20 +412,8 @@
   },
   "sheets": [
     [
-      "29f5f941-e8e4-46f3-bc26-342cffab5658",
+      "3acd2db0-67f8-4e7c-93ef-4b5073521e94",
       ""
-    ],
-    [
-      "0b123ccf-4508-4fc4-8cc6-5a7ce3f61b6f",
-      "Speedometer"
-    ],
-    [
-      "cdb25c8c-7112-4b95-a237-07f20a67e668",
-      "Battery/Fuel/Temperature indicators"
-    ],
-    [
-      "0d0278d0-7b1a-43e0-b946-5237bd1427ae",
-      "TachometerV2"
     ]
   ],
   "text_variables": {}
