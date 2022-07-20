@@ -1,4 +1,5 @@
 (fp_lib_table
   (lib (name "DashDash")(type "KiCad")(uri "/home/fdsoftware/repos/churrosoft/openefi/Dashdash/pcb/library/DashDash.pretty")(options "")(descr ""))
   (lib (name "OpenEFI-STM32F_rev3")(type "KiCad")(uri "/home/fdsoftware/repos/churrosoft/openefi/Dashdash/pcb/library/OpenEFI-STM32F_rev3.pretty")(options "")(descr ""))
+  (lib (name "dashdash_lib")(type "KiCad")(uri "/home/fdsoftware/repos/churrosoft/openefi/Dashdash/pcb/library/dashdash_lib.pretty")(options "")(descr ""))
 )
