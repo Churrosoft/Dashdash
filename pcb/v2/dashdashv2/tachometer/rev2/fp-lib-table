@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "dashdash_lib")(type "KiCad")(uri "/home/fdsoftware/repos/churrosoft/openefi/Dashdash/pcb/library/dashdash_lib.pretty")(options "")(descr ""))
+)
