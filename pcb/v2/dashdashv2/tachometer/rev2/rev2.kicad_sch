@@ -4018,6 +4018,10 @@
     (effects (font (size 0.6 0.6)) (justify right bottom))
     (uuid 598bb104-fe10-4366-b0a2-c1fa79b123f9)
   )
+  (label "TACH_DIN" (at 95.885 132.08 180)
+    (effects (font (size 1.27 1.27)) (justify right bottom))
+    (uuid 5b3f1a3b-7c58-4567-aa08-9d8f9e9e68de)
+  )
   (label "BA_4_L" (at 224.155 78.74 180)
     (effects (font (size 0.6 0.6)) (justify right bottom))
     (uuid 5c64bbcf-5961-46a2-9dd1-e03372f25207)
@@ -9042,127 +9046,127 @@
       (reference "C58") (unit 1) (value "2.2uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/c8e99178-187c-4cec-9720-569bee65a970/e7917045-ffda-4928-ac01-b7c880748732"
-      (reference "D1") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_Cree-PLCC4_2x2mm_CW")
+      (reference "D1") (unit 1) (value "WS2812B") (footprint "dashdash_lib:LED_WS2812-2020")
     )
     (path "/c8e99178-187c-4cec-9720-569bee65a970/02bd6617-9173-4786-9225-7825d240d45e"
-      (reference "D2") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_Cree-PLCC4_2x2mm_CW")
+      (reference "D2") (unit 1) (value "WS2812B") (footprint "dashdash_lib:LED_WS2812-2020")
     )
     (path "/c8e99178-187c-4cec-9720-569bee65a970/6db64da6-341d-496c-a7dd-c682cec78439"
-      (reference "D3") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_Cree-PLCC4_2x2mm_CW")
+      (reference "D3") (unit 1) (value "WS2812B") (footprint "dashdash_lib:LED_WS2812-2020")
     )
     (path "/c8e99178-187c-4cec-9720-569bee65a970/597311b1-b5a2-437e-a0f7-dd2c9149d15c"
-      (reference "D4") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_Cree-PLCC4_2x2mm_CW")
+      (reference "D4") (unit 1) (value "WS2812B") (footprint "dashdash_lib:LED_WS2812-2020")
     )
     (path "/c8e99178-187c-4cec-9720-569bee65a970/0f9b913f-12c1-4586-892a-817808994b99"
-      (reference "D5") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_Cree-PLCC4_2x2mm_CW")
+      (reference "D5") (unit 1) (value "WS2812B") (footprint "dashdash_lib:LED_WS2812-2020")
     )
     (path "/c8e99178-187c-4cec-9720-569bee65a970/0e0bca7a-dd2b-46af-a1c1-5872aed2c495"
-      (reference "D6") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_Cree-PLCC4_2x2mm_CW")
+      (reference "D6") (unit 1) (value "WS2812B") (footprint "dashdash_lib:LED_WS2812-2020")
     )
     (path "/c8e99178-187c-4cec-9720-569bee65a970/6b116786-20d9-4cd2-ae82-3845c7021165"
-      (reference "D7") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_Cree-PLCC4_2x2mm_CW")
+      (reference "D7") (unit 1) (value "WS2812B") (footprint "dashdash_lib:LED_WS2812-2020")
     )
     (path "/c8e99178-187c-4cec-9720-569bee65a970/71b5a4b9-e194-4517-825c-3c2bfc3538f5"
-      (reference "D8") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_Cree-PLCC4_2x2mm_CW")
+      (reference "D8") (unit 1) (value "WS2812B") (footprint "dashdash_lib:LED_WS2812-2020")
     )
     (path "/c8e99178-187c-4cec-9720-569bee65a970/6e8ef107-3891-436f-bdfd-2ebb0035b6a4"
-      (reference "D9") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_Cree-PLCC4_2x2mm_CW")
+      (reference "D9") (unit 1) (value "WS2812B") (footprint "dashdash_lib:LED_WS2812-2020")
     )
     (path "/c8e99178-187c-4cec-9720-569bee65a970/b503f890-a45c-49ff-9b79-f5a0d68bb54d"
-      (reference "D10") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_Cree-PLCC4_2x2mm_CW")
+      (reference "D10") (unit 1) (value "WS2812B") (footprint "dashdash_lib:LED_WS2812-2020")
     )
     (path "/c8e99178-187c-4cec-9720-569bee65a970/2730e24f-9747-4b7f-9113-3e6564cd206a"
-      (reference "D11") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_Cree-PLCC4_2x2mm_CW")
+      (reference "D11") (unit 1) (value "WS2812B") (footprint "dashdash_lib:LED_WS2812-2020")
     )
     (path "/c8e99178-187c-4cec-9720-569bee65a970/72be8d86-acf8-4e4e-88dd-09936ce5c9e5"
-      (reference "D12") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_Cree-PLCC4_2x2mm_CW")
+      (reference "D12") (unit 1) (value "WS2812B") (footprint "dashdash_lib:LED_WS2812-2020")
     )
     (path "/c8e99178-187c-4cec-9720-569bee65a970/2b5b0c25-97fb-4aea-964c-725f5b999fbc"
-      (reference "D13") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_Cree-PLCC4_2x2mm_CW")
+      (reference "D13") (unit 1) (value "WS2812B") (footprint "dashdash_lib:LED_WS2812-2020")
     )
     (path "/c8e99178-187c-4cec-9720-569bee65a970/4f65235d-7648-44e4-abfe-02fb8787997f"
-      (reference "D14") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_Cree-PLCC4_2x2mm_CW")
+      (reference "D14") (unit 1) (value "WS2812B") (footprint "dashdash_lib:LED_WS2812-2020")
     )
     (path "/c8e99178-187c-4cec-9720-569bee65a970/922ad793-444a-41f5-9661-459eb1a9a8c5"
-      (reference "D15") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_Cree-PLCC4_2x2mm_CW")
+      (reference "D15") (unit 1) (value "WS2812B") (footprint "dashdash_lib:LED_WS2812-2020")
     )
     (path "/c8e99178-187c-4cec-9720-569bee65a970/060cf0c1-0715-47e5-a2fc-9c34a40af659"
-      (reference "D16") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_Cree-PLCC4_2x2mm_CW")
+      (reference "D16") (unit 1) (value "WS2812B") (footprint "dashdash_lib:LED_WS2812-2020")
     )
     (path "/c8e99178-187c-4cec-9720-569bee65a970/41d346b8-b5e8-4ad1-8f9c-d7373501f62e"
-      (reference "D17") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_Cree-PLCC4_2x2mm_CW")
+      (reference "D17") (unit 1) (value "WS2812B") (footprint "dashdash_lib:LED_WS2812-2020")
     )
     (path "/c8e99178-187c-4cec-9720-569bee65a970/4f33107c-5b10-4239-9c0c-83e27f54f756"
-      (reference "D18") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_Cree-PLCC4_2x2mm_CW")
+      (reference "D18") (unit 1) (value "WS2812B") (footprint "dashdash_lib:LED_WS2812-2020")
     )
     (path "/c8e99178-187c-4cec-9720-569bee65a970/c83e67fa-20f8-447a-920d-4afdc54d9730"
-      (reference "D19") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_Cree-PLCC4_2x2mm_CW")
+      (reference "D19") (unit 1) (value "WS2812B") (footprint "dashdash_lib:LED_WS2812-2020")
     )
     (path "/c8e99178-187c-4cec-9720-569bee65a970/2b7627b2-e3cd-46dc-abe4-b15fd2ca4882"
-      (reference "D20") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_Cree-PLCC4_2x2mm_CW")
+      (reference "D20") (unit 1) (value "WS2812B") (footprint "dashdash_lib:LED_WS2812-2020")
     )
     (path "/c8e99178-187c-4cec-9720-569bee65a970/8a7d0b47-9249-46ff-a9df-390dc8e898d2"
-      (reference "D21") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_Cree-PLCC4_2x2mm_CW")
+      (reference "D21") (unit 1) (value "WS2812B") (footprint "dashdash_lib:LED_WS2812-2020")
     )
     (path "/c8e99178-187c-4cec-9720-569bee65a970/574106d4-a86f-41cf-b813-6a4f402e621b"
-      (reference "D22") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_Cree-PLCC4_2x2mm_CW")
+      (reference "D22") (unit 1) (value "WS2812B") (footprint "dashdash_lib:LED_WS2812-2020")
     )
     (path "/c8e99178-187c-4cec-9720-569bee65a970/2628557d-9ed6-4321-8d80-9a7b5f44079c"
-      (reference "D23") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_Cree-PLCC4_2x2mm_CW")
+      (reference "D23") (unit 1) (value "WS2812B") (footprint "dashdash_lib:LED_WS2812-2020")
     )
     (path "/c8e99178-187c-4cec-9720-569bee65a970/573c4ae1-f8be-4de6-8616-78a9b0d90049"
-      (reference "D24") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_Cree-PLCC4_2x2mm_CW")
+      (reference "D24") (unit 1) (value "WS2812B") (footprint "dashdash_lib:LED_WS2812-2020")
     )
     (path "/c8e99178-187c-4cec-9720-569bee65a970/d0f4af3a-d9f2-4820-a538-031454fb1291"
-      (reference "D25") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_Cree-PLCC4_2x2mm_CW")
+      (reference "D25") (unit 1) (value "WS2812B") (footprint "dashdash_lib:LED_WS2812-2020")
     )
     (path "/c8e99178-187c-4cec-9720-569bee65a970/c8c3f8c7-44c9-4cb4-a979-6b73c9473153"
-      (reference "D26") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_Cree-PLCC4_2x2mm_CW")
+      (reference "D26") (unit 1) (value "WS2812B") (footprint "dashdash_lib:LED_WS2812-2020")
     )
     (path "/c8e99178-187c-4cec-9720-569bee65a970/b37b148c-26cb-41a1-b032-8f54f458e50e"
-      (reference "D27") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_Cree-PLCC4_2x2mm_CW")
+      (reference "D27") (unit 1) (value "WS2812B") (footprint "dashdash_lib:LED_WS2812-2020")
     )
     (path "/c8e99178-187c-4cec-9720-569bee65a970/f9bcb794-7d29-4d27-ad62-033a75829014"
-      (reference "D28") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_Cree-PLCC4_2x2mm_CW")
+      (reference "D28") (unit 1) (value "WS2812B") (footprint "dashdash_lib:LED_WS2812-2020")
     )
     (path "/c8e99178-187c-4cec-9720-569bee65a970/0e90f9f1-8b10-4758-a729-5dde1a91ba37"
-      (reference "D29") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_Cree-PLCC4_2x2mm_CW")
+      (reference "D29") (unit 1) (value "WS2812B") (footprint "dashdash_lib:LED_WS2812-2020")
     )
     (path "/c8e99178-187c-4cec-9720-569bee65a970/3ff60601-ec82-42c6-8e0f-6eb89a97d088"
-      (reference "D30") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_Cree-PLCC4_2x2mm_CW")
+      (reference "D30") (unit 1) (value "WS2812B") (footprint "dashdash_lib:LED_WS2812-2020")
     )
     (path "/c8e99178-187c-4cec-9720-569bee65a970/ebb6dbb4-6a5a-429f-b5d8-b297a5cbb748"
-      (reference "D31") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_Cree-PLCC4_2x2mm_CW")
+      (reference "D31") (unit 1) (value "WS2812B") (footprint "dashdash_lib:LED_WS2812-2020")
     )
     (path "/c8e99178-187c-4cec-9720-569bee65a970/2230f4a3-030f-4d54-bd65-b6b997ec7e4a"
-      (reference "D32") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_Cree-PLCC4_2x2mm_CW")
+      (reference "D32") (unit 1) (value "WS2812B") (footprint "dashdash_lib:LED_WS2812-2020")
     )
     (path "/c8e99178-187c-4cec-9720-569bee65a970/3db9a41d-9f7f-4d97-9a4e-5d8e98e8d68c"
-      (reference "D33") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_Cree-PLCC4_2x2mm_CW")
+      (reference "D33") (unit 1) (value "WS2812B") (footprint "dashdash_lib:LED_WS2812-2020")
     )
     (path "/c8e99178-187c-4cec-9720-569bee65a970/e0a7b764-d65e-415e-a004-4702f351c539"
-      (reference "D34") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_Cree-PLCC4_2x2mm_CW")
+      (reference "D34") (unit 1) (value "WS2812B") (footprint "dashdash_lib:LED_WS2812-2020")
     )
     (path "/c8e99178-187c-4cec-9720-569bee65a970/13011478-125f-4f49-8895-7dd5d7cb62c1"
-      (reference "D35") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_Cree-PLCC4_2x2mm_CW")
+      (reference "D35") (unit 1) (value "WS2812B") (footprint "dashdash_lib:LED_WS2812-2020")
     )
     (path "/c8e99178-187c-4cec-9720-569bee65a970/edfe94e9-7b35-4acf-9af0-550088386361"
-      (reference "D36") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_Cree-PLCC4_2x2mm_CW")
+      (reference "D36") (unit 1) (value "WS2812B") (footprint "dashdash_lib:LED_WS2812-2020")
     )
     (path "/c8e99178-187c-4cec-9720-569bee65a970/5acd3d0d-6e1c-4d03-9bbc-51387c6a4136"
-      (reference "D37") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_Cree-PLCC4_2x2mm_CW")
+      (reference "D37") (unit 1) (value "WS2812B") (footprint "dashdash_lib:LED_WS2812-2020")
     )
     (path "/c8e99178-187c-4cec-9720-569bee65a970/ad9e1a99-3ff3-4414-b386-c0d3465355d7"
-      (reference "D38") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_Cree-PLCC4_2x2mm_CW")
+      (reference "D38") (unit 1) (value "WS2812B") (footprint "dashdash_lib:LED_WS2812-2020")
     )
     (path "/c8e99178-187c-4cec-9720-569bee65a970/eaf8223f-ef16-4409-a95d-dc25d4a9bc81"
-      (reference "D39") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_Cree-PLCC4_2x2mm_CW")
+      (reference "D39") (unit 1) (value "WS2812B") (footprint "dashdash_lib:LED_WS2812-2020")
     )
     (path "/c8e99178-187c-4cec-9720-569bee65a970/698be431-3d13-46a4-8884-4d5d714d27a1"
-      (reference "D40") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_Cree-PLCC4_2x2mm_CW")
+      (reference "D40") (unit 1) (value "WS2812B") (footprint "dashdash_lib:LED_WS2812-2020")
     )
     (path "/c8e99178-187c-4cec-9720-569bee65a970/e6dfc73e-85f0-49c8-91d5-386aa239148b"
-      (reference "D41") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_Cree-PLCC4_2x2mm_CW")
+      (reference "D41") (unit 1) (value "WS2812B") (footprint "dashdash_lib:LED_WS2812-2020")
     )
     (path "/c6cb8f88-5c70-464c-8429-b57967c6b15f"
       (reference "D42") (unit 1) (value "LED") (footprint "LED_SMD:LED_0805_2012Metric_Castellated")
@@ -9360,19 +9364,19 @@
       (reference "D110") (unit 1) (value "BZV55B5V1") (footprint "Diode_SMD:D_MiniMELF")
     )
     (path "/c8e99178-187c-4cec-9720-569bee65a970/f50d84e5-4c93-4019-927e-ba4877e41d4c"
-      (reference "D111") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_Cree-PLCC4_2x2mm_CW")
+      (reference "D111") (unit 1) (value "WS2812B") (footprint "dashdash_lib:LED_WS2812-2020")
     )
     (path "/c8e99178-187c-4cec-9720-569bee65a970/26c0f8c9-2ddb-42da-aa98-42e4e59ecc6f"
-      (reference "D112") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_Cree-PLCC4_2x2mm_CW")
+      (reference "D112") (unit 1) (value "WS2812B") (footprint "dashdash_lib:LED_WS2812-2020")
     )
     (path "/c8e99178-187c-4cec-9720-569bee65a970/32d46e0f-819d-493f-ac14-361381f9babe"
-      (reference "D113") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_Cree-PLCC4_2x2mm_CW")
+      (reference "D113") (unit 1) (value "WS2812B") (footprint "dashdash_lib:LED_WS2812-2020")
     )
     (path "/c8e99178-187c-4cec-9720-569bee65a970/6d4d3c08-2211-4442-b189-18f457a71d47"
-      (reference "D114") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_Cree-PLCC4_2x2mm_CW")
+      (reference "D114") (unit 1) (value "WS2812B") (footprint "dashdash_lib:LED_WS2812-2020")
     )
     (path "/c8e99178-187c-4cec-9720-569bee65a970/0c4baf53-1032-4b16-bf9f-df827a172a21"
-      (reference "D115") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_Cree-PLCC4_2x2mm_CW")
+      (reference "D115") (unit 1) (value "WS2812B") (footprint "dashdash_lib:LED_WS2812-2020")
     )
     (path "/d44a0a54-7dc0-4f85-9252-0ecd5e9521a3"
       (reference "H1") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_2.2mm_M2_Pad")
